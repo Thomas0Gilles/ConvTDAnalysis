@@ -7,4 +7,10 @@ Using Keppler-Mapper with Single Linkage to visualize the weight kernels distrib
 
 ## PCA Representation of the weights in 2D
 
+![PCA](https://github.com/Thomas0Gilles/ConvTDAnalysis/blob/master/vgg_pca_layer_6.png)
+
 ## Mapper graph representation of the weights
+
+![Mapper](https://github.com/Thomas0Gilles/ConvTDAnalysis/blob/master/vgg_layer_6.PNG)
+
+The result is stored in html format and the graph can be moved with the mouse.
