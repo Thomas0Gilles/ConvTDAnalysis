@@ -5,6 +5,6 @@ Inspired from https://www.ayasdi.com/blog/artificial-intelligence/using-topologi
 
 Using Keppler-Mapper with Single Linkage to visualize the weight kernels distribution inside the layers of a Convolutional neural network.
 
-##PCA Representation of the weights in 2D
+## PCA Representation of the weights in 2D
 
-##Mapper graph representation of the weights
+## Mapper graph representation of the weights
